@@ -1,15 +1,19 @@
-# Project Name
-Project description.
+# Alexsander Lopes Camargos Currículo
+
+My personal resume formats in a single web page.
 
 ## View Project in Execution
-You can check this website on this [link](https://#).
+
+You can check this website on this [link](https://alcamargos-resume.netlify.app).
 
 ## Technologies
-- HTML5
-- CSS3
-- JavaScript
+
+-   HTML5
+-   CSS3
+-   JavaScript
 
 ## Prerequisites
+
 You need a modern browser, just clone the repository, open the index.html
 and edit it as you like. After edit share with me your version. :happy:
 
