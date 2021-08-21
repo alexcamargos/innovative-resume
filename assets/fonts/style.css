@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "innovative-resume";
+    src: url("fonts/innovative-resume.eot?80kdh8");
+    src: url("fonts/innovative-resume.eot?80kdh8#iefix")
+            format("embedded-opentype"),
+        url("fonts/innovative-resume.ttf?80kdh8") format("truetype"),
+        url("fonts/innovative-resume.woff?80kdh8") format("woff"),
+        url("fonts/innovative-resume.svg?80kdh8#innovative-resume")
+            format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: "innovative-resume" !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-at-sign:before {
+    content: "\e900";
+}
+.icon-award:before {
+    content: "\e901";
+}
+.icon-chevrons-up:before {
+    content: "\e902";
+}
+.icon-facebook:before {
+    content: "\e903";
+}
+.icon-file-text:before {
+    content: "\e904";
+}
+.icon-github:before {
+    content: "\e905";
+}
+.icon-instagram:before {
+    content: "\e906";
+}
+.icon-linkedin:before {
+    content: "\e907";
+}
+.icon-mail:before {
+    content: "\e908";
+}
+.icon-map:before {
+    content: "\e909";
+}
+.icon-map-pin:before {
+    content: "\e90a";
+}
+.icon-menu:before {
+    content: "\e90b";
+}
+.icon-phone:before {
+    content: "\e90c";
+}
+.icon-printer:before {
+    content: "\e90d";
+}
+.icon-settings:before {
+    content: "\e90e";
+}
+.icon-smartphone:before {
+    content: "\e90f";
+}
+.icon-target:before {
+    content: "\e910";
+}
+.icon-twitter:before {
+    content: "\e911";
+}
+.icon-user:before {
+    content: "\e912";
+}
+.icon-x:before {
+    content: "\e913";
+}
